@@ -1,4 +1,4 @@
-# Project-0
+# EDP
 ## Aim: Basics of Python
 Theory
 Python is a high-level, interpreted programming language widely used in Data Science due to its simplicity and powerful libraries. In the initial phase of Exploratory Data Analysis, it is crucial to understand how Python stores and displays information.
