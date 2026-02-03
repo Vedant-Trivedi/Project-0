@@ -8,8 +8,6 @@
 
 **Experiment No:** 0
 
-**Date:** February 3, 2026
-
 ---
 
 ### 1. AIM:
